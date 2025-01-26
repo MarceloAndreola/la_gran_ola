@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkla_gran_ola"]=self["webpackChunkla_gran_ola"]||[]).push([[594],{5282:function(a,n,u){u.r(n),u.d(n,{default:function(){return o}});var r=u(6768);const t={class:"about"};function e(a,n){return(0,r.uX)(),(0,r.CE)("div",t,n[0]||(n[0]=[(0,r.Lk)("h1",null,"This is an about page",-1)]))}var s=u(1241);const l={},c=(0,s.A)(l,[["render",e]]);var o=c}}]);
+//# sourceMappingURL=about.fb5bb194.js.map
